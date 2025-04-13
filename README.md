@@ -1,0 +1,1 @@
+# cursor_setup_and_update.sh
