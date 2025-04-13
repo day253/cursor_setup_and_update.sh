@@ -17,8 +17,8 @@ curl -sSL "https://raw.githubusercontent.com/day253/cursor_setup_and_update.sh/r
 ## Usage:
 
 Save this script as 'cursor_setup_and_update.sh'
-Make it executable: chmod +x cursor_setup_and_update.sh
-Run it: ./cursor_setup_and_update.sh
+Make it executable: `chmod +x cursor_setup_and_update.sh`
+Run it: `./cursor_setup_and_update.sh`
 After installation, launch Cursor with: cursor [file_or_directory]
 
 Note: This script is designed for Ubuntu/Debian-based systems and may need modifications for other distributions.
